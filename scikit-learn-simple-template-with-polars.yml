@@ -1,0 +1,4 @@
+name: scikit-learn
+channels:
+  - defaults
+prefix: /opt/anaconda3/envs/scikit-learn
